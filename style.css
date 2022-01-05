@@ -1,0 +1,31 @@
+.t1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    margin-left: 0px;
+    color: dimgray;
+}
+span{
+    color: red;
+    font-weight: 100;
+}
+.br1{
+    border-left: red solid 2px;
+    margin-left: 45px;
+}
+
+.first{
+    display: flex;
+}
+.half-width{
+    width: 50%;
+    padding-left: 5%;
+}
+.half-width img{
+    width: 61%;
+    padding-left: 10%;
+    
+}
+p{
+    padding-left: 90px;
+    font-size: 20px;
+}
