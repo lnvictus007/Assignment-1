@@ -46,3 +46,12 @@ span{
     background-color: black;
     color: white;
 }
+h5{
+    margin-top: 50px;
+    margin-left: 90px;
+    color: rgba(0, 0, 0, 0.685);
+}
+
+.parent2{
+    display: flex;
+}
