@@ -110,7 +110,7 @@ h5{
 
 .third{
     display: flex;
-    margin-top: 200px;
+    margin-top: 180px;
     padding-right: 200px;
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
@@ -155,7 +155,7 @@ h5{
 }
 .fourth{
     display: flex;
-    margin-top: 250px;
+    margin-top: 180px;
     padding-right: 200px;
     background-image: url(images/shapes/shape-3.png);
     background-repeat: no-repeat;
@@ -183,13 +183,14 @@ h5{
 
 .fifth{
     display: flex;
-    margin-top: 275px;
+    margin-top: 180px;
 }
 
 .paachobi img{
     width: 80%;
     margin-bottom: 10%;
     margin-top: 20px;
+    margin-left: 10%;
 }
 .tttt{
     font-size: 60px;
@@ -204,10 +205,10 @@ h5{
 }
 .fivedhek{
     width: 50%;
-    margin-right: 15%;
+    margin-right: 10%;
  
 }
 
 .ftin{
-    font-size: 18px;
+    font-size: 20px;
 }
