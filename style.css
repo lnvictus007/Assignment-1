@@ -56,7 +56,7 @@ h5{
     display: flex;
 }
 .sec{
-    margin-top: 200px;
+    margin-top: 150px;
 }
 .card1{
     text-align: left;
@@ -70,7 +70,7 @@ h5{
 
 .card2{
     text-align: left;
-    background-color: rgba(240, 128, 128, 0.644);
+    background-color:  rgba(240, 128, 128, 0.644);
     border: none;
     width: 18%;
     padding: 4%;
@@ -80,7 +80,7 @@ h5{
 
 .card3{
     text-align: left;
-    background-color: lightyellow;
+    background-color:lightgoldenrodyellow;
     border: none;
     width: 18%;
     padding: 4%;
