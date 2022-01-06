@@ -56,7 +56,7 @@ h5{
     display: flex;
 }
 .sec{
-    margin-top: 200px;
+    margin-top: 180px;
 }
 .card1{
     text-align: left;
@@ -110,7 +110,7 @@ h5{
 
 .third{
     display: flex;
-    margin-top: 250px;
+    margin-top: 200px;
     padding-right: 200px;
     background-image: url(images/shapes/shape-1.png);
     background-repeat: no-repeat;
@@ -179,4 +179,35 @@ h5{
 }
 .pchar{
     font-size: 20px;
+}
+
+.fifth{
+    display: flex;
+    margin-top: 275px;
+}
+
+.paachobi img{
+    width: 80%;
+    margin-bottom: 10%;
+    margin-top: 20px;
+}
+.tttt{
+    font-size: 60px;
+    color: dimgray;
+    
+}
+.trtt{
+    font-size: 60px;
+    color: coral;
+    font-family: 'Times New Roman', Times, serif;
+   
+}
+.fivedhek{
+    width: 50%;
+    margin-right: 15%;
+ 
+}
+
+.ftin{
+    font-size: 18px;
 }
