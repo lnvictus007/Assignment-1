@@ -56,7 +56,7 @@ h5{
     display: flex;
 }
 .sec{
-    margin-top: 150px;
+    margin-top: 200px;
 }
 .card1{
     text-align: left;
@@ -103,7 +103,7 @@ h5{
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
     font-size: 60px;
-    padding-bottom: 40px;
+    padding-bottom: 30px;
     color: dimgray;
 }
 
@@ -120,7 +120,8 @@ h5{
 }
 
 .tin{
-    font-size: 50px;
+    font-size: 60px;
+    color: dimgray;
 }
 .ordhek{
     width: 50%;
@@ -152,4 +153,30 @@ h5{
     background-color: black;
     color: white;
 }
+.fourth{
+    display: flex;
+    margin-top: 250px;
+    padding-right: 200px;
+    background-image: url(images/shapes/shape-3.png);
+    background-repeat: no-repeat;
+    background-position-x: 1300px;
+   background-position-y: 8px;
+    background-size: 350px 400px;
+    
+}
+.fourdhek{
+    width: 80%;
+    margin-left: 25%;
+}
+.arekchobi img{
+    width: 60%;
+    margin-left: 25%;
 
+}
+.char{
+    font-size: 60px;
+    color: dimgray;
+}
+.pchar{
+    font-size: 20px;
+}
