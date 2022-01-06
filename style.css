@@ -104,4 +104,52 @@ h5{
     font-family: 'Times New Roman', Times, serif;
     font-size: 60px;
     padding-bottom: 40px;
+    color: dimgray;
 }
+
+
+.third{
+    display: flex;
+    margin-top: 250px;
+    padding-right: 200px;
+    background-image: url(images/shapes/shape-1.png);
+    background-repeat: no-repeat;
+    background-size: 25%;
+    background-position-x: 140px;
+    background-position-y: 20px;
+}
+
+.tin{
+    font-size: 50px;
+}
+.ordhek{
+    width: 50%;
+    margin-right: 15%;
+    margin-top: 5%;
+}
+.chobi img{
+    width: 51%;
+    margin-left: 35%;
+    margin-bottom: 10%;
+    margin-top: 20px;
+}
+
+.ptin{
+    font-size: 18px;
+}
+.btn2{
+    text-decoration: none;
+    background-color: coral;
+    color: white;
+    padding: 10px 20px;
+    font-size: 11px;
+    border-radius: 9px;
+    transition: 0.4s ease;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.btn2:hover{
+    background-color: black;
+    color: white;
+}
+
